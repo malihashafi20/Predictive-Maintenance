@@ -22,4 +22,4 @@ The project is organized into the following Jupyter notebooks, each detailing a 
 * **Matplotlib & Seaborn**: For data visualization and plotting.
 * **Numpy**: For numerical operations.
 
-# Predictive-Maintenance
+
